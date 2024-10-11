@@ -1,0 +1,28 @@
+hd{
+	margin: 0;
+	padding: 20px 0px;
+	text-shadow: 3px 3px 1.2px peachpuff;
+	color: transparent;
+	display: ruby;
+}
+#body {
+	font-family: 'lato', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: justify;
+	display: block;
+	padding: 0px 20px 20px 20px;
+	margin: 0 auto;
+	color: peachpuff;
+	background: crimson;
+
+}
+img{
+	display: block;
+	margin: 0 auto;
+	width: -webkit-fill-available;
+}
+z{
+ 	background-color: ghostwhite;
+ 	color: crimson;
+}

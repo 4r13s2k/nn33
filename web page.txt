@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Toitle</title>
+</head>
+
+<body>
+	This be body!
+</body>
+</html>
